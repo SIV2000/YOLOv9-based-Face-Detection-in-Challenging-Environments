@@ -7,14 +7,6 @@ The YOLOv9 model can be found in the "Models" folder.
 
 While using our database or code, please cite to our publication:
 
-@ARTICLE{11087548,
-  author={Perikamana Narayanan, Sivaranjini and Sabarimalai Manikandan, M. and Cenkeramaddi, Linga Reddy},
-  journal={IEEE Access}, 
-  title={YOLOv9-Based Human Face Detection and Counting Under Human-Animal Faces, Complex Imaging Environments, and Image Qualities}, 
-  year={2025},
-  volume={13},
-  number={},
-  pages={129600-129637},
-  keywords={Face recognition;Face detection;Noise;YOLO;Accuracy;Faces;Lighting;Image quality;Skin;Salt;Face detection and people counting;YOLOv9;crowd counting;object detection method;image denoising;speckle noise;salt and pepper noise;Gaussian noise;motion blur;filtering},
-  doi={10.1109/ACCESS.2025.3591247}}
+S. Perikamana Narayanan, M. Sabarimalai Manikandan and L. R. Cenkeramaddi, "YOLOv9-Based Human Face Detection and Counting Under Human-Animal Faces, Complex Imaging Environments, and Image Qualities," in IEEE Access, vol. 13, pp. 129600-129637, 2025, doi: 10.1109/ACCESS.2025.3591247.
+
 
